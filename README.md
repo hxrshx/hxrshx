@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Snake animation]
+![Snake animation](https://github.com/hxrshx/hxrshx/blob/main/github-contribution-grid-snake.svg)
 <!--
 **hxrshx/hxrshx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
