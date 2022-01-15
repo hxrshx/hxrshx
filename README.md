@@ -89,3 +89,20 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ![Snake animation](https://github.com/hxrshx/hxrshx/blob/main/github-contribution-grid-snake.svg)
+  
+  
+  
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-now-playing-rithvik78.vercel.app/api/spotify-playing)](https://open.spotify.com/)
+
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a> 
+
+<p align="center">
+  <a>
+    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a3x3k&theme=dark&hide_border=true"/>
+    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+  </a>
+</p>
+
