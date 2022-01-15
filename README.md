@@ -114,9 +114,7 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
-  </a>
+  </a>  
   
   <a href="https://www.virtualbox.org/" target="_blank">
     <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
