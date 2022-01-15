@@ -33,6 +33,22 @@
 - 💬 Talk to me about Python, Freelancing Opportunites, ML Projects, Pega PRPC 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+  
+<br>
+<br>
+  
+### 📕 My Latest Blog Posts!
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<br/>
+
+- [PEGA - Service Level Agreement](https://harshasathish.medium.com/service-level-agreement-sla-1f9e48ac6964)
+- [Email Integration in PEGA](https://harshasathish.medium.com/email-integration-in-pega-b3200e77c396)
+- [E - Pass Application System - A PEGA Project ](https://harshasathish.medium.com/e-pass-application-system-beede68c2ca7)
+- [Interview Application Portal - A PEGA Project](https://harshasathish.medium.com/my-new-project-45eaab87f317)
+
+<br/> 
 <a href= https://github.com/hxrshx?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/hxrshx?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/hxrshx?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
