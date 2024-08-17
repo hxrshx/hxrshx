@@ -27,13 +27,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on AI - based Projects like Chatbot and Music Recommendation System
+- 🔭 Senior Associate Consultant @Infosys, Ex- GE Vernova | Salesforce Developer
 
-- 🌱 I’m currently learning Machine Learning, Pega PRPC, AWS 
+- 🌱 AI/ML Enthusiast
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles, Blogs 
+- 👯 3 Conference Papers under IEEE | 2x Nominations by CIO for Technology Excellence
 
-- 💬 Talk to me about Python, Freelancing Opportunites, ML Projects, Pega PRPC 
+- 💬 B.Tech from Amrita Vishwa Vidyapeetam
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   
